@@ -1,12 +1,13 @@
 # Quick-Font-Scaller
 
-An Obsidian plugin to quickly adjust font scaling within the application.
+An Obsidian plugin that allows you to quickly adjust the font size of the application interface and editor using commands.
 
 ## Features
 
-* **Quick Adjustments:** Rapidly increase or decrease font size.
-* **[Insert Feature]:** (e.g., "Supports mouse wheel resizing" or "Custom hotkeys").
-* **[Insert Feature]:** (e.g., "Resets to default with a single click").
+* **Increase Font Size:** incrementally make the text larger.
+* **Decrease Font Size:** incrementally make the text smaller.
+* **Reset Font Size:** immediately return the font size to the default setting.
+* **Status Bar Indicator:** shows the current zoom level or font size adjustment.
 
 ## Installation
 
@@ -29,14 +30,24 @@ An Obsidian plugin to quickly adjust font scaling within the application.
 
 ## Usage
 
-Describe how users interact with the plugin here.
+You can control the font size using the Command Palette:
 
-* **Commands:** Open the Command Palette (`Ctrl/Cmd + P`) and search for "Quick-Font-Scaller".
-* **Hotkeys:** You can assign custom hotkeys to these commands in **Settings** > **Hotkeys**.
+1.  Press `Ctrl + P` (or `Cmd + P` on macOS) to open the Command Palette.
+2.  Type **Quick-Font-Scaller**.
+3.  Select one of the following commands:
+    * `Quick-Font-Scaller: Increase font size`
+    * `Quick-Font-Scaller: Decrease font size`
+    * `Quick-Font-Scaller: Reset font size`
+
+### Hotkeys
+
+To make this faster, assign hotkeys to these commands:
+
+1.  Go to **Settings** > **Hotkeys**.
+2.  Search for "Quick-Font-Scaller".
+3.  Assign keys (e.g., `Ctrl + +` for increase, `Ctrl + -` for decrease).
 
 ## Development
-
-If you wish to build this plugin from source:
 
 1.  Clone the repository:
     ```bash
