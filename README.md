@@ -14,7 +14,7 @@ An Obsidian plugin that allows you to quickly adjust the font size of the applic
 ### Manual Installation
 
 1.  Download the latest release from the [Releases](https://github.com/DuckTapeKiller/quick-font-scaler) page.
-2.  Extract the `main.js`, `manifest.json`, and `styles.css` files.
+2.  Extract the `main.js` and `manifest.json` files.
 3.  Create a folder named `quick-font-scaler` in your vault's plugin directory:
     `<VaultFolder>/.obsidian/plugins/quick-font-scaler/`
 4.  Move the extracted files into this folder.
@@ -30,37 +30,7 @@ An Obsidian plugin that allows you to quickly adjust the font size of the applic
 
 ## Usage
 
-You can control the font size using the Command Palette:
-
-1.  Press `Ctrl + P` (or `Cmd + P` on macOS) to open the Command Palette.
-2.  Type **Quick Font Scaler**.
-3.  Select one of the following commands:
-    * `Quick Font Scaler: Increase font size`
-    * `Quick Font Scaler: Decrease font size`
-    * `Quick Font Scaler: Reset font size`
-
-### Hotkeys
-
-To make this faster, assign hotkeys to these commands:
-
-1.  Go to **Settings** > **Hotkeys**.
-2.  Search for "Quick Font Scaler".
-3.  Assign keys (e.g., `Ctrl + +` for increase, `Ctrl + -` for decrease).
-
-## Development
-
-1.  Clone the repository:
-    ```bash
-    git clone [https://github.com/DuckTapeKiller/quick-font-scaler](https://github.com/DuckTapeKiller/quick-font-scaler)
-    ```
-2.  Install dependencies:
-    ```bash
-    npm install
-    ```
-3.  Start development mode:
-    ```bash
-    npm run dev
-    ```
+You can control the font size using the buttons + and - to increase or decrease the size of the text on the notes. 
 
 ## Licence
 
