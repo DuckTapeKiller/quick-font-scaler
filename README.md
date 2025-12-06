@@ -30,7 +30,7 @@ An Obsidian plugin that allows you to quickly adjust the font size of the applic
 
 ## Usage
 
-You can control the font size using the buttons + and - to increase or decrease the size of the text on the notes. 
+You can control the font size using the buttons + and -, shown on the status bar, to increase or decrease the size of the text on the notes. 
 
 ## Licence
 
