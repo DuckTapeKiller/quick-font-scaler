@@ -1,0 +1,10 @@
+{
+	"id": "quick-font-scaller",
+	"name": "quick-font-scaller",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Quickly adjust the font size of the application interface.",
+	"author": "DuckTapeKiller",
+	"authorUrl": "https://github.com/DuckTapeKiller",
+	"isDesktopOnly": true
+}
