@@ -13,7 +13,7 @@ An Obsidian plugin that allows you to quickly adjust the font size of the applic
 
 ### Manual Installation
 
-1.  Download the latest release from the [Releases](https://github.com/DuckTapeKiller/Quick-Font-Scaller/releases) page.
+1.  Download the latest release from the [Releases](https://github.com/DuckTapeKiller/quick-font-scaller) page.
 2.  Extract the `main.js`, `manifest.json`, and `styles.css` files.
 3.  Create a folder named `quick-font-scaller` in your vault's plugin directory:
     `<VaultFolder>/.obsidian/plugins/quick-font-scaller/`
