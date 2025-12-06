@@ -1,4 +1,4 @@
-# Quick-Font-Scaller
+# Quick Font Scaler
 
 An Obsidian plugin that allows you to quickly adjust the font size of the application interface and editor using commands.
 
@@ -13,10 +13,10 @@ An Obsidian plugin that allows you to quickly adjust the font size of the applic
 
 ### Manual Installation
 
-1.  Download the latest release from the [Releases](https://github.com/DuckTapeKiller/quick-font-scaller) page.
+1.  Download the latest release from the [Releases](https://github.com/DuckTapeKiller/quick-font-scaler) page.
 2.  Extract the `main.js`, `manifest.json`, and `styles.css` files.
-3.  Create a folder named `quick-font-scaller` in your vault's plugin directory:
-    `<VaultFolder>/.obsidian/plugins/quick-font-scaller/`
+3.  Create a folder named `quick-font-scaler` in your vault's plugin directory:
+    `<VaultFolder>/.obsidian/plugins/quick-font-scaler/`
 4.  Move the extracted files into this folder.
 5.  Reload Obsidian and enable the plugin in settings.
 
@@ -25,7 +25,7 @@ An Obsidian plugin that allows you to quickly adjust the font size of the applic
 *Once this plugin is accepted into the official registry:*
 
 1.  Open **Settings** > **Community Plugins**.
-2.  Search for **Quick-Font-Scaller**.
+2.  Search for **Quick Font Scaler**.
 3.  Click **Install** and **Enable**.
 
 ## Usage
@@ -33,25 +33,25 @@ An Obsidian plugin that allows you to quickly adjust the font size of the applic
 You can control the font size using the Command Palette:
 
 1.  Press `Ctrl + P` (or `Cmd + P` on macOS) to open the Command Palette.
-2.  Type **Quick-Font-Scaller**.
+2.  Type **Quick Font Scaler**.
 3.  Select one of the following commands:
-    * `Quick-Font-Scaller: Increase font size`
-    * `Quick-Font-Scaller: Decrease font size`
-    * `Quick-Font-Scaller: Reset font size`
+    * `Quick Font Scaler: Increase font size`
+    * `Quick Font Scaler: Decrease font size`
+    * `Quick Font Scaler: Reset font size`
 
 ### Hotkeys
 
 To make this faster, assign hotkeys to these commands:
 
 1.  Go to **Settings** > **Hotkeys**.
-2.  Search for "Quick-Font-Scaller".
+2.  Search for "Quick Font Scaler".
 3.  Assign keys (e.g., `Ctrl + +` for increase, `Ctrl + -` for decrease).
 
 ## Development
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/DuckTapeKiller/Quick-Font-Scaller](https://github.com/DuckTapeKiller/Quick-Font-Scaller)
+    git clone [https://github.com/DuckTapeKiller/quick-font-scaler](https://github.com/DuckTapeKiller/quick-font-scaler)
     ```
 2.  Install dependencies:
     ```bash
