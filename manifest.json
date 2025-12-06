@@ -1,6 +1,6 @@
 {
-	"id": "quick-font-scaller",
-	"name": "Quick Font Scaller",
+	"id": "quick-font-scaler",
+	"name": "Quick Font Scaler",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "Quickly adjust the font size of the application interface.",
