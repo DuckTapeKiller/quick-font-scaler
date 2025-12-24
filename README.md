@@ -35,3 +35,5 @@ You can control the font size using the buttons + and -, shown on the status bar
 ## Licence
 
 MIT
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ducktapekiller)
